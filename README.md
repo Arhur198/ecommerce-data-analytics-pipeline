@@ -30,4 +30,3 @@ The pipeline covers:
 
 ---
 
-# Project Structure
